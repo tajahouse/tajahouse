@@ -13,7 +13,7 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am a mother of 3! 
 
-My skils
+My skills
 
 - Computer Science
 
