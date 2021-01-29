@@ -12,7 +12,9 @@
 - ⚡ Fun fact: ... I am a mother of 3! 
 
 I love to learn! I am changing the phrase "Jack of all trades, master of none" to "master of many". I can't wait to link up and share ideas and collaborate! 
-Okay! Bye now!
+
+
+##                                                                 Okay! Bye now!
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
