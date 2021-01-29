@@ -13,6 +13,32 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I am a mother of 3! 
 
+My skils
+
+- Computer Science
+
+- Python
+
+- JavaScript
+
+- Node
+
+- React.js
+
+- Redux
+
+- Context
+
+- HTML
+
+- CSS
+
+- LESS
+
+- SASS
+
+- React Styling Library
+
 I love to learn! I am changing the phrase "Jack of all trades, master of none" to "master of many". I can't wait to link up and share ideas and collaborate! 
 
 
