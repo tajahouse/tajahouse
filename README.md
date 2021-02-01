@@ -11,7 +11,7 @@
 - 💬 Ask me about ... Anything 😄
 - 📫 How to reach me: ... [Linked In!](https://www.linkedin.com/in/taja-house) 
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I am a mother of 3! 
+- ⚡ Fun fact: ... I was an educator and loved every minute of it!
 
 My skills
 
