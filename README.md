@@ -39,6 +39,14 @@ My skills
 
 - React Styling Library
 
+- Gatsby
+
+- Shopify
+
+- Google Analytics
+
+- AWS
+
 I love to learn! I am changing the phrase "Jack of all trades, master of none" to "master of many". I can't wait to link up and share ideas and collaborate! 
 
 
