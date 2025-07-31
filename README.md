@@ -47,7 +47,7 @@ Welcome to my world — part engineer, part founder, part future architect of sy
 ## 🌐 Connect With Me
 
 - Email: tajahouse.lotusarcsolutions@gmail.com  
-- Company: [Lotus Arc](https://lotusarc.com) *(coming soon)*  
+- Company: [Lotus Arc](https://public-site-sand.vercel.app/) *(coming soon)*  
 - Blog & Podcast: *In progress — stay tuned for The Quiet Intellect*
 
 ---
