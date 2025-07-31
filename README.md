@@ -1,56 +1,55 @@
-# Welcome, My name is Taja! Nice to meet you!
+# Hey, I’m Taja 🧠🌺 | @tajahouse
 
-***
+Welcome to my world — part engineer, part founder, part future architect of systems that *actually* make sense.
 
-### I am a full stack web developer and a military wife and mother of three beautiful daughters. I wear many hats, and I do my best to fulfill my dutuies and go above and beyond in all of them! I love learning about everything, but my greatest interests are in technology! I can get a lot done on my own, but I love to work with others as well! Feel free to reach out if you would like to collaborate on a side project, or if you want to hire me 😉. Furthermore ⬇️
+## 🛠️ What I'm Working On
 
-- 🔭 I’m currently working on ... A non profit organization website using AWS, React.js, Ant.design, and Node.js!
-- 🌱 I’m currently learning ... Python, Vue, and German
-- 👯 I’m looking to collaborate on ... websites and features that better the lives of others.
-- 🤔 I’m looking for help with ... Creating secure websites for companies such as Tax businesses.
-- 💬 Ask me about ... Anything 😄
-- 📫 How to reach me: ... [Linked In!](https://www.linkedin.com/in/taja-house) 
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I was an educator and loved every minute of it!
+- **Lotus Arc (Founder/Engineer)**  
+  Leading the buildout of a tech company offering custom web and AI-driven applications.  
+  - Architecting and deploying **micro-frontend** applications using **Module Federation**  
+  - Frontend: React, Redux, Vite | Backend: Java | DB: MongoDB  
+  - Building internal tools and client portals with focus on UX and maintainability  
+  - Deploying across **Cloud Foundry** and **Vercel**  
+  - Creating engineering documentation, CI/CD workflows, and team conventions
 
-My skills
+- **Wells Fargo (Software Engineer)**  
+  Supporting enterprise-level applications in a high-security financial environment.  
+  - Migrating monolithic Java apps to modular React-based micro frontends  
+  - Solving CSP, CORS, and PDF rendering issues across browser environments  
+  - Improving session storage patterns and dynamic routing  
+  - Implementing front-end testing with **React Testing Library** and **Vitest**  
+  - Collaborating across teams to deliver secure, scalable architecture
 
-- Computer Science
+## 💡 What I Value
 
-- Python
+- **Security-First Development** — Mitigating risk at the architecture level  
+- **Scalable Frontend Engineering** — Building with growth, not just speed, in mind  
+- **Practical Documentation** — Making systems transparent and maintainable  
+- **Collaborative Leadership** — Helping junior devs grow while pushing projects forward  
 
-- JavaScript
+## 🔍 Current Exploration
 
-- Node
+- Offensive + Defensive Cybersecurity (ethical hacking)  
+- Quantum computing’s role in cryptography  
+- Device capability detection for adaptive rendering  
+- AI-assisted workflows for underwriting and internal tools  
+- Developer experience optimization through internal dev tools  
 
-- React.js
+## 🧠 Skills & Tools
 
-- Redux
+- **Languages:** JavaScript, TypeScript, Java, Python  
+- **Frameworks:** React, Vite, Express, Next.js  
+- **Infra/DevOps:** Cloud Foundry, Vercel, GitHub Actions, Jenkins  
+- **Databases:** MongoDB, PostgreSQL  
+- **Testing:** Vitest, Jest, React Testing Library  
+- **Other:** Notion, Penpot, Postman, Canva, Slack
 
-- Context
+## 🌐 Connect With Me
 
-- HTML
+- Email: tajahouse.lotusarcsolutions@gmail.com  
+- Company: [Lotus Arc](https://lotusarc.com) *(coming soon)*  
+- Blog & Podcast: *In progress — stay tuned for The Quiet Intellect*
 
-- CSS
+---
 
-- LESS
-
-- SASS
-
-- React Styling Library
-
-- Gatsby
-
-- Shopify
-
-- Google Analytics
-
-- AWS
-
-I love to learn! I am changing the phrase "Jack of all trades, master of none" to "master of many". I can't wait to link up and share ideas and collaborate! 
-
-
-##                                                                 Okay! Bye now!
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
+*"I'm not interested in being seen as smart. I'm interested in understanding."*
